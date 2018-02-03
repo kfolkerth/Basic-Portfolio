@@ -198,3 +198,46 @@ h2 {
 .portfolioFive {
     clear: both;
 }
+
+#formSection {
+    width: 620px;
+    background-color: white;
+    margin-left: 13.333%;
+    float: left;
+    padding: 30px;
+    color: #777777;
+}
+
+#contactSection {
+    height: 90px;
+    line-height: 90px;
+    font-size: 24px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid grey;  
+}
+
+#nameInput {
+    width: 590px;
+    height: 35px;
+    color: #777777;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#emailInput {
+    width: 590px;
+    height: 35px;
+    color: #777777;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#messageInput {
+    width: 590px;
+    height: 200px;
+    color: #777777;
+    margin-top: 15px;
+}
