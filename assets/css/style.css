@@ -16,6 +16,8 @@ footer {
     color: rgba(255, 255, 255, 0.705);
     border-top: 10px solid #4aaaa5;
     z-index: 3;
+    clear: both;
+    margin-top: -60px;
 }
 
 #navFill {
@@ -160,6 +162,7 @@ h2 {
     margin-left: 13.333%;
     float: left;
     padding-left: 30px;
+    padding-bottom: 60px;
 }
 
 #portfolioHeaderSection {
@@ -204,7 +207,8 @@ h2 {
     background-color: white;
     margin-left: 13.333%;
     float: left;
-    padding: 30px;
+    padding-left: 30px;
+    padding-bottom: 120px;
     color: #777777;
 }
 
@@ -240,4 +244,14 @@ h2 {
     height: 200px;
     color: #777777;
     margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#inputButton {
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+    background-color: #4aaaa5;
+    border: none;
 }
